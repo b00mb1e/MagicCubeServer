@@ -1,0 +1,104 @@
+﻿  正在清理远程项目目录
+  正在验证源
+  正在将源远程复制到“101.33.227.215”
+  正在验证体系结构
+  正在验证体系结构
+  正在启动远程生成
+  正在编译源:
+  MagicCub.cpp
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(56,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(56,20): warning :   for (int i = 0; i < face.size(); i++)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(56,20): warning :                   ~~^~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(66,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(66,20): warning :   for (int i = 0; i < face.size(); i++)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(66,20): warning :                   ~~^~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(133,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(133,20): warning :   for (int i = 0; i < FrontFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(133,20): warning :                   ~~^~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(137,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(137,20): warning :   for (int i = 0; i < BottomFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(137,20): warning :                   ~~^~~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(142,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(142,20): warning :   for (int i = 0; i < BackFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(142,20): warning :                   ~~^~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(147,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(147,20): warning :   for (int i = 0; i < TopFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(147,20): warning :                   ~~^~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(152,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(152,27): warning :   for (int i = 0, k = 0; i < FrontFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(152,27): warning :                          ~~^~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(155,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(155,27): warning :   for (int i = 0, k = 0; i < BottomFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(155,27): warning :                          ~~^~~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(158,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(158,27): warning :   for (int i = 0, k = 0; i < BackFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(158,27): warning :                          ~~^~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(161,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(161,27): warning :   for (int i = 0, k = 0; i < TopFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(161,27): warning :                          ~~^~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(177,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(177,20): warning :   for (int i = 2; i < FrontFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(177,20): warning :                   ~~^~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(180,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(180,20): warning :   for (int i = 2; i < TopFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(180,20): warning :                   ~~^~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(183,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(183,20): warning :   for (int i = 2; i < BackFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(183,20): warning :                   ~~^~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(186,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(186,20): warning :   for (int i = 2; i < BottomFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(186,20): warning :                   ~~^~~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(191,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(191,27): warning :   for (int i = 2, k = 0; i < FrontFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(191,27): warning :                          ~~^~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(194,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(194,27): warning :   for (int i = 2, k = 0; i < TopFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(194,27): warning :                          ~~^~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(197,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(197,27): warning :   for (int i = 2, k = 0; i < BackFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(197,27): warning :                          ~~^~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(200,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(200,27): warning :   for (int i = 2, k = 0; i < BottomFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(200,27): warning :                          ~~^~~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(215,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(215,20): warning :   for (int i = 2; i < LeftFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(215,20): warning :                   ~~^~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(222,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(222,20): warning :   for (int i = 0; i < RightFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(222,20): warning :                   ~~^~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(228,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(228,27): warning :   for (int i = 2, k = 0; i < LeftFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(228,27): warning :                          ~~^~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(234,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(234,27): warning :   for (int i = 0, k = 0; i < RightFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(234,27): warning :                          ~~^~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(256,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(256,20): warning :   for (int i = 0; i < LeftFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(256,20): warning :                   ~~^~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(265,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(265,20): warning :   for (int i = 2; i < RightFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(265,20): warning :                   ~~^~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(271,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(271,27): warning :   for (int i = 0, k = 2; i < LeftFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(271,27): warning :                          ~~^~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(275,27): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(275,27): warning :   for (int i = 2, k = 2; i < RightFace.size(); i += 3)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(275,27): warning :                          ~~^~~~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(294,20): warning : comparison of integer expressions of different signedness: ‘int’ and ‘std::__cxx11::basic_string<char>::size_type’ {aka ‘long unsigned int’} [-Wsign-compare]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(294,20): warning :   for (int i = 0; i < formula.size(); i++)
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(294,20): warning :                   ~~^~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(486,40): warning : conversion from ‘std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(486,40): warning :   int scrambleLength = generator() % 20 + 1;
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(486,40): warning :                        ~~~~~~~~~~~~~~~~~^~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(527,25): warning : conversion from ‘std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(527,25): warning :    int idx = generator() % CenterBlockNum;
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(527,25): warning :              ~~~~~~~~~~~~^~~~~~~~~~~~~~~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(556,25): warning : conversion from ‘std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(556,25): warning :    int slt = generator() % 3;
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(556,25): warning :              ~~~~~~~~~~~~^~~
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(613,25): warning : conversion from ‘std::mersenne_twister_engine<long unsigned int, 32, 624, 397, 31, 2567483615, 11, 4294967295, 7, 2636928640, 15, 4022730752, 18, 1812433253>::result_type’ {aka ‘long unsigned int’} to ‘int’ may change value [-Wconversion]
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(613,25): warning :    int idx = generator() % PrismaticBlockNum;
+F:\Cproject\MagicCube\MagicCube\MagicCub.cpp(613,25): warning :              ~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~
+  main.cpp
+  正在链接对象
+  MagicCube.vcxproj -> F:\Cproject\MagicCube\MagicCube\bin\x64\Debug\MagicCube.out

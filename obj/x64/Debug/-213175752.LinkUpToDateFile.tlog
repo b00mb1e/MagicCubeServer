@@ -1,0 +1,1 @@
+g++ -o "/root/MagicServer/MagicCube/bin/x64/Debug/MagicCube.out" -Wl,--no-undefined -Wl,-L/usr/lib64 -Wl,-L"/usr/lib/x86_64-linux-gnu/" -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /root/MagicServer/MagicCube/obj/x64/Debug/MagicCub.o /root/MagicServer/MagicCube/obj/x64/Debug/main.o -ljsoncpp -lpthread
